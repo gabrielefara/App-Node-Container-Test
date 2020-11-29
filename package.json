@@ -1,0 +1,22 @@
+{
+  "name": "app_nodejs_test_container",
+  "version": "1.0.0",
+  "description": "Applicazione Node distribuzione su container Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielefara/App-Node-Container-Test.git"
+  },
+  "author": "Gabriele Fara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielefara/App-Node-Container-Test/issues"
+  },
+  "homepage": "https://github.com/gabrielefara/App-Node-Container-Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
